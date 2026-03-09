@@ -30,6 +30,7 @@ Este proceso presenta diversos problemas:
 Los sistemas comerciales de AS/RS solucionan estos problemas, pero suelen tener alto costo y complejidad, lo que limita su implementación en entornos educativos o prototipos experimentales.
 
 Por esta razón, este proyecto propone el desarrollo de un prototipo de sistema automatizado de almacenamiento y recuperación controlado por un sistema embebido, capaz de gestionar de forma automática el almacenamiento y recuperación de productos dentro de una estructura de compartimentos.
+
 ---
 
 # Alcance del Proyecto
