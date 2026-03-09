@@ -148,6 +148,6 @@ Michael Cuello Perez
 
 # Información del Proyecto
 
-Proyecto de Sistemas Embebidos
-Universidad EIA
+Proyecto de Sistemas Embebidos  
+Universidad EIA  
 Periodo académico **2026-1**
