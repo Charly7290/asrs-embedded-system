@@ -156,7 +156,7 @@ Diseñar e implementar un sistema embebido para el control de un sistema automat
 |---|---|---|---|
 | 1 | README + roles + problema | 11/03/2026 | ✅ |
 | 2 | SRS + plan de testing + SRTM | 27/03/2026 | ✅ |
-| 3 | Diagrama de bloques + esquemático + BOM | 17/04/2026 | 🔄 |
+| 3 | Diagrama de bloques + esquemático + BOM | 17/04/2026 | ✅ |
 | 4 | Entrega final + demo | 18–22/05/2026 | ⬜ |
 
 ---
