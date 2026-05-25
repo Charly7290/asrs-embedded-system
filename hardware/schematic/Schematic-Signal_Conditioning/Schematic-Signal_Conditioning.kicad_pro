@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EquematicoElectronico_S.E.kicad_pro",
+    "filename": "Schematic-Signal_Conditioning.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -373,7 +373,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Referencia"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -409,22 +409,11 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [
-      {
-        "filename": "EquematicoElectronico_S.E.kicad_sch",
-        "name": "Raíz",
-        "uuid": "5c53e1c5-51a2-4248-a542-e0e4a25b8dbd"
-      }
-    ],
-    "used_designators": "",
+    "top_level_sheets": [],
+    "used_designators": "U1",
     "variants": []
   },
-  "sheets": [
-    [
-      "5c53e1c5-51a2-4248-a542-e0e4a25b8dbd",
-      "Raíz"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
