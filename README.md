@@ -3,7 +3,7 @@
 Prototipo de sistema embebido para un **Sistema Automatizado de Almacenamiento y Recuperación (AS/RS – Automated Storage and Retrieval System)** desarrollado como proyecto del curso de Sistemas Embebidos en la Universidad EIA.
 
 > **Estado del proyecto:** Entrega 3/4 — Diagrama de bloques, esquemático y BOM.
-> Entrega final: semana del 18–22 de mayo de 2026.
+> Entrega final: 29 mayo de 2026.
 
 ---
 
@@ -11,14 +11,14 @@ Prototipo de sistema embebido para un **Sistema Automatizado de Almacenamiento y
 
 ```
 asrs-embedded/
-├── docs/                    # Documentación del proyecto
+├── docs/                    # Documentación del proyecto / Entregas
 │   ├── firmware-design/     # Embedded Firmware Design Document
 │   ├── test-cases/evidence/ # Evidencia de pruebas ejecutadas
 │   └── images/              # Diagramas, fotos, capturas
 ├── firmware/                # Proyecto PlatformIO
 │   ├── src/                 # Código fuente
 │   │   ├── hal/             # Abstracción de hardware
-│   │   ├── drivers/         # Drivers (stepper, hx711, mcp23017)
+│   │   ├── drivers/         # Drivers (stepper, l298n, mcp23017)
 │   │   ├── services/        # Lógica de negocio (motion, inventory, logger)
 │   │   └── app/             # Máquina de estados principal
 │   ├── include/             # Headers globales (config, error codes)
@@ -26,7 +26,7 @@ asrs-embedded/
 │   └── test/                # Unit tests
 ├── hardware/                # Diseño electrónico
 │   ├── schematic/           # Proyecto KiCad
-│   ├── pcb/                 # Diseño de PCB y Gerbers
+│   ├── pcb/                 # Diseño de PCB 
 │   ├── enclosure/           # Diseño CAD de la carcasa
 │   └── photos/              # Fotos del ensamblaje
 └── gui/                     # Interfaz gráfica de usuario
