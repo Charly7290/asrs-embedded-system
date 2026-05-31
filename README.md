@@ -2,8 +2,7 @@
 
 Prototipo de sistema embebido para un **Sistema Automatizado de Almacenamiento y Recuperación (AS/RS – Automated Storage and Retrieval System)** desarrollado como proyecto del curso de Sistemas Embebidos en la Universidad EIA.
 
-> **Estado del proyecto:** Entrega 3/4 — Diagrama de bloques, esquemático y BOM.
-> Entrega final: 29 mayo de 2026.
+> **Estado del proyecto:** Finalizado
 
 ---
 
@@ -157,7 +156,7 @@ Diseñar e implementar un sistema embebido para el control de un sistema automat
 | 1 | README + roles + problema | 11/03/2026 | ✅ |
 | 2 | SRS + plan de testing + SRTM | 27/03/2026 | ✅ |
 | 3 | Diagrama de bloques + esquemático + BOM | 17/04/2026 | ✅ |
-| 4 | Entrega final + demo | 18–22/05/2026 | ⬜ |
+| 4 | Entrega final + demo | 18–22/05/2026 | ✅ |
 
 ---
 
